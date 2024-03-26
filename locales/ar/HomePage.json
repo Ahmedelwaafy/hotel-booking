@@ -1,0 +1,22 @@
+{
+  "tab": {
+    "title": "لانا | ",
+    "description": "إيجار - بيع العقارات في مصر"
+  },
+  "CouponsGrid": {
+    "CTA_text": "عرض الكل"
+  },
+  "AboutUs": {
+    "CTA_text": "معلومات عنا"
+  },
+  "LatestCategories": {
+    "CTA_text": "عرض الكل"
+  },
+  "CouponCard": {
+    "CTA_txt": "استخدم الكوبون",
+    "active_yes": "جاري",
+    "active_no": "معطل",
+    "last_used": "آخر استخدام منذ {{time}} ",
+    "featured_txt": "مميز"
+  }
+}

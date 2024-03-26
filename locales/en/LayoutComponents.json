@@ -1,0 +1,75 @@
+{
+  "Navbar": {
+    "menu_items": {
+      "home": "Home",
+      "coupons": "Coupons",
+      "brands": "Brands",
+      "contact_us": "Contact Us"
+    },
+   
+    "user_menu_items": {
+      "profile": "Profile",
+      "messages": "Messages",
+      "reviews": "Reviews",
+      "submit_property": "Submit Property",
+      "my_properties": "My Properties",
+      "my_offers": "Submission Offers",
+      "favorites": "Favorites",
+      "log_out": "Log Out"
+    },
+    "NavSearch": { "placeholder": "Search your beloved deal..." },
+    "NavDropDownMenu": {
+      "my_profile": "My Profile",
+      "Log_out": "Log out"
+    }
+  },
+
+  "Footer": {
+    "first_column": {
+      "title": "Company",
+      "help_center": "Help Center",
+      "menu_items": {
+        "Home": { "title": "Home", "link": "" },
+        "FAQs": { "title": "FAQs", "link": "/faqs" },
+        "Contact": { "title": "Contact", "link": "/contact-us" },
+        "About": { "title": "About", "link": "/about-us" },
+        "Login": { "title": "Login", "link": "/login" },
+        "Terms_Conditions": {
+          "title": "Terms & Conditions",
+          "link": "/terms-conditions"
+        }
+      }
+    },
+    "second_column": {
+      "title": "Featured Sections",
+      "menu_items": {
+        "first": { "title": "Top Stores in Egypt", "link": "/brands" },
+        "second": { "title": "Best Coupons", "link": "/coupons" },
+        "third": { "title": "Featured Deals", "link": "/deals" },
+        "fourth": { "title": "New Year offers", "link": "/offers" },
+        "fifth": { "title": "Advertising with us", "link": "/contact-us" }
+      }
+    },
+    "third_column": {
+      "title": "Popular Stores in Egypt",
+      "coupons_formatted": "{{count, number}} Coupons"
+    },
+    "about_us": "About us",
+    "download_app": "Download App",
+    "follow_us": "Follow Us",
+    "news_letter": "News letters",
+    "Subscribe": "Subscribe",
+    "email": {
+      "placeholder": "Enter your email",
+      "required_msg": "Email is required.",
+      "pattern_msg": "Invalid Email Address."
+    }
+  },
+
+  "LogOutPopUp": {
+    "LogOutPopUpTitle": "Are you sure you want to logout ?",
+    "SubmitBtnText": "Confirm",
+    "CancelBtnText": "Cancel",
+    "toast_error": "Please log in first!"
+  }
+}

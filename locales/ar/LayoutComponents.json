@@ -1,0 +1,100 @@
+{
+  "Navbar": {
+    "menu_items": {
+      "home": "الرئيسية",
+      "coupon": " المميزات",
+      "coupons": " الكوبونات",
+      "brands": "العلامات التجارية",
+      "contact_us": "اتصل بنا"
+    },
+    "LoginPopUp": {
+      "Login": "تسجيل الدخول",
+      "Register": "إنشاء حساب"
+    },
+
+    "NavSearch": { "placeholder": "ابحث عن صفقتك المفضلة..." },
+    "NavDropDownMenu": {
+      "my_profile": "الحساب الشخصي",
+      "Log_out": "تسجيل الخروج"
+    }
+  },
+
+  "Footer": {
+    "first_column": {
+      "title": "الشركة",
+      "help_center": "مركز المساعدة",
+      "menu_items": {
+        "Home": {
+          "title": "الرئيسية",
+          "link": ""
+        },
+        "FAQs": {
+          "title": "الأسئلة الشائعة",
+          "link": "/faqs"
+        },
+        "Contact": {
+          "title": "اتصل بنا",
+          "link": "/contact-us"
+        },
+        "About": {
+          "title": "معلومات عنا",
+          "link": "/about-us"
+        },
+        "Login": {
+          "title": "تسجيل الدخول",
+          "link": "/login"
+        },
+        "Terms_Conditions": {
+          "title": "الأحكام والشروط",
+          "link": "/terms-conditions"
+        }
+      }
+    },
+    "second_column": {
+      "title": "الأقسام المميزة",
+      "menu_items": {
+        "first": {
+          "title": "أفضل المتاجر في مصر",
+          "link": "/brands"
+        },
+        "second": {
+          "title": "أفضل الكوبونات",
+          "link": "/coupons"
+        },
+        "third": {
+          "title": "عروض مميزة",
+          "link": "/deals"
+        },
+        "fourth": {
+          "title": "عروض السنة الجديدة",
+          "link": "/offers"
+        },
+        "fifth": {
+          "title": "اعلن معنا",
+          "link": "/contact-us"
+        }
+      }
+    },
+    "third_column": {
+      "title": "المتاجر المشهورة في مصر",
+      "coupons_formatted": "{{count, number}} كوبونات"
+    },
+    "about_us": "معلومات عنا",
+    "download_app": "تحميل التطبيق",
+    "follow_us": "تابعنا",
+    "news_letter": "نشرة الإخبار",
+    "Subscribe": "اشترك",
+    "email": {
+      "placeholder": "أدخل بريدك الإلكتروني",
+      "required_msg": "البريد الالكتروني مطلوب.",
+      "pattern_msg": "عنوان البريد الإلكتروني غير صحيح."
+    }
+  },
+
+  "LogOutPopUp": {
+    "LogOutPopUpTitle": "هل أنت متأكد أنك تريد تسجيل الخروج ؟",
+    "SubmitBtnText": "تأكيد",
+    "CancelBtnText": "رجوع",
+    "toast_error": "الرجاء تسجيل الدخول أولا!"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tab": {
+    "title": "Lana | Rent - Sell Properties in Egypt",
+    "description": "Rent - Sell Properties in Egypt"
+  },
+  "CouponsGrid": { "CTA_text": "SHOW ALL" },
+  "AboutUs": { "CTA_text": "About Us" },
+  "LatestCategories": { "CTA_text": "SHOW ALL" },
+  "CouponCard": {
+    "active_yes": "Active",
+    "active_no": "Not Active",
+    "last_used": "Last used {{time}}",
+    "featured_txt": "Featured"
+  }
+}
